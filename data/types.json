@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Whiskey",
+        "img": {
+            "src": "kind-6.jpg",
+            "alt": "Whiskey Type Image"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Vodka",
+        "img": {
+            "src": "kind-5.jpg",
+            "alt": "Vodka Type Image"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Brandy",
+        "img": {
+            "src": "kind-1.jpg",
+            "alt": "Brandy Type Image"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Tequila",
+        "img": {
+            "src": "kind-4.jpg",
+            "alt": "Tequila Type Image"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Rum",
+        "img": {
+            "src": "kind-3.jpg",
+            "alt": "Rum Type Image"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Gin",
+        "img": {
+            "src": "kind-2.jpg",
+            "alt": "Gin Type Image"
+        }
+    }
+]

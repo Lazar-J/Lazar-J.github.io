@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Harry",
+        "img": {
+            "src": "testimonial-1.jpg",
+            "alt": "Harry Image"
+        },
+        "impression": "Love to shop here. They have the best prices of anyone around. I would recommend and I do, Drinksology to everyone!",
+        "feeling": "Ridrinkulous"
+    },
+    {
+        "id": 2,
+        "name": "Alec",
+        "img": {
+            "src": "testimonial-2.jpg",
+            "alt": "Alec Image"
+        },
+        "impression": "Drinksology always seems to have the best pricing in town and have a huge selection. You go in looking to buy one thing and come out with five!",
+        "feeling": "Sloppy"
+    },
+    {
+        "id": 3,
+        "name": "Sarah",
+        "img": {
+            "src": "testimonial-3.jpg",
+            "alt": "Sarah Image"
+        },
+        "impression": "Exactly what you expect: a warehouse full of almost every possible alcohol you could possibly need.",
+        "feeling": "Given to drink"
+    },
+    {
+        "id": 4,
+        "name": "Jamal",
+        "img": {
+            "src": "testimonial-4.jpg",
+            "alt": "Jamal Image"
+        },
+        "impression": "Great selection and excellent prices.",
+        "feeling": "Wasted"
+    },
+    {
+        "id": 5,
+        "name": "Donald",
+        "img": {
+            "src": "testimonial-5.jpg",
+            "alt": "Donald Image"
+        },
+        "impression": "Absolutely hands down the best prices and selection. Literally the only place I buy alcohol.",
+        "feeling": "Boozed up"
+    }
+]

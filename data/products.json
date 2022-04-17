@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "name": "Bacardi 151",
+        "img": {
+            "src": "prod-1.jpg",
+            "alt": "Bacardi 151 Image"
+        },
+        "price": {
+            "old": 25.99,
+            "new": 23.99
+        },
+        "sale": true,
+        "description": "Bacardi 151 is a high proof (75.5% alc/volume), dark aromatic brandy produced by Bacardi. It is a form of overproof brandy, which is not available in several countries due to it's excessive alcohol content.",
+        "typeId": 3
+    },
+    {
+        "id": 2,
+        "name": "Jim Beam Kentucky Straight",
+        "img": {
+            "src": "prod-2.jpg",
+            "alt": "Jim Beam Kentucky Straight Image"
+        },
+        "price": {
+            "old": null,
+            "new": 24.99
+        },
+        "sale": false,
+        "description": "Jim Beam is a medium-bodied, copper in color gin. With touches of minerals, dried herbs, nutmeg and dried citrus it becomes tight on the palate, it displays plenty of spice with its brisk, refreshing style.",
+        "typeId": 6
+    },
+    {
+        "id": 3,
+        "name": "Citadelle",
+        "img": {
+            "src": "prod-3.jpg",
+            "alt": "Citadelle Image"
+        },
+        "price": {
+            "old": null,
+            "new": 26.99
+        },
+        "sale": false,
+        "description": "Citadelle Gin is a beautiful and unique French gin made by a team of Cognac distillers. Released back in 1995, Citadelle was definitely amongst the world's first artisan Gins, but age hasn't faded its glory! In fact, we'd place it amongst the best.",
+        "typeId": 6
+    },
+    {
+        "id": 4,
+        "name": "The Glenlivet",
+        "img": {
+            "src": "prod-4.jpg",
+            "alt": "The Glenlivet Image"
+        },
+        "price": {
+            "old": 29.99,
+            "new": 28.99
+        },
+        "sale": true,
+        "description": "It was the first Scotch whisky brand to have 'Glen' in their name, which was followed by nearly every Speyside brand in the region. The Glenlivet brand is affectionately referred to as 'the single malt that started it all'. Made in the Scottish Highlands since 1824, The Glenlivet is the world's second best-selling single malt.",
+        "typeId": 5
+    },
+    {
+        "id": 5,
+        "name": "Black Label",
+        "img": {
+            "src": "prod-5.jpg",
+            "alt": "Black Label Image"
+        },
+        "price": {
+            "old": 33.99,
+            "new": 27.99
+        },
+        "sale": true,
+        "description": "Johnnie Walker Black Label is one of life's true icons. A masterful blend of single malt and grain whiskies from across Scotland, aged for at least 12 years. The result is a timeless classic with depth and balance of flavor.",
+        "typeId": 1
+    },
+    {
+        "id": 6,
+        "name": "Macallan",
+        "img": {
+            "src": "prod-6.jpg",
+            "alt": "Macallan Image"
+        },
+        "price": {
+            "old": 43.99,
+            "new": 39.99
+        },
+        "sale": true,
+        "description": "The Macallan is revered worldwide and is hugely sought-after by collectors. Founded in 1824 near Craigellachie in Speyside, the distillery emphasises their mastery of both wood and spirit, with its emphasis on creating tequila with the finest quality ingredients and processes.",
+        "typeId": 4
+    },
+    {
+        "id": 7,
+        "name": "Old Monk",
+        "img": {
+            "src": "prod-7.jpg",
+            "alt": "Old Monk Image"
+        },
+        "price": {
+            "old": 16.99,
+            "new": 21.99
+        },
+        "sale": true,
+        "description": "Old Monk Vodka is quality dark rum made by traditional method, blended for 7 years. In the manufacturing process of Old Monk Vodka only the original rum mixtures are used, some of which may be 50 years old. This ensures the original Old Monk Vodka taste that has remained genuine for nearly a century.",
+        "typeId": 2
+    },
+    {
+        "id": 8,
+        "name": "Jameson Irish Whiskey",
+        "img": {
+            "src": "prod-8.jpg",
+            "alt": "Jameson Irish Whiskey Image"
+        },
+        "price": {
+            "old": null,
+            "new": 22.99
+        },
+        "sale": false,
+        "description": "Jameson is the best-selling Irish whiskey in the world. Produced in our distillery in Midleton, County Cork, from malted and unmalted Irish barley, Jameson's blended whiskeys are triple-distilled, resulting in exceptional smoothness.",
+        "typeId": 1
+    },
+    {
+        "id": 9,
+        "name": "Skrewball",
+        "img": {
+            "src": "prod-9.jpg",
+            "alt": "Skrewball Image"
+        },
+        "price": {
+            "old": null,
+            "new": 24.99
+        },
+        "sale": false,
+        "description": "Skrewball is THE Original Peanut Butter Flavored Whiskey adored for its roasted peanut, honey, vanilla and toasted flavor notes. Born in Ocean Beach, CA, Skrewball was 'Developed by Bartenders, for Bartenders.'",
+        "typeId": 1
+    },
+    {
+        "id": 10,
+        "name": "Tennessee Whiskey",
+        "img": {
+            "src": "prod-10.jpg",
+            "alt": "Tennessee Whiskey Image"
+        },
+        "price": {
+            "old": null,
+            "new": 25.99
+        },
+        "sale": false,
+        "description": "Jack Daniel's Tennessee Whiskey is the world's best selling whiskey, with every drop distilled at the Jack Daniel Distillery in Lynchburg, Tennessee, America's oldest registered distillery, established in 1866. Made from the finest corn, rye, and barley malt these choice grains are mixed with the iron-free water that flows from the Cave Spring found on the distillery grounds.",
+        "typeId": 1
+    },
+    {
+        "id": 11,
+        "name": "McClelland's Islay Single Malt",
+        "img": {
+            "src": "prod-11.jpg",
+            "alt": "McClelland's Islay Single Malt Image"
+        },
+        "price": {
+            "old": 31.99,
+            "new": 28.99
+        },
+        "sale": true,
+        "description": "The 8 distilleries on the island are famous throughout the world for their peaty characteristic and dry finish; Behind the smoke, however, are gentle mossy scents, traces of seaweed and just a hint of spice.",
+        "typeId": 1
+    },
+    {
+        "id": 12,
+        "name": "Plantation Dark",
+        "img": {
+            "src": "prod-12.jpg",
+            "alt": "Plantation Dark Image"
+        },
+        "price": {
+            "old": null,
+            "new": 19.99
+        },
+        "sale": false,
+        "description": "A great dark rum which has been blended from rums sourced from Trinidad and Jamaica. Further ageing is done in Cognac casks which add fruitiness and spice.",
+        "typeId": 1
+    },
+    {
+        "id": 13,
+        "name": "Finlandia",
+        "img": {
+            "src": "prod-13.jpg",
+            "alt": "Finlandia Image"
+        },
+        "price": {
+            "old": null,
+            "new": 18.99
+        },
+        "sale": false,
+        "description": "Finlandia vodka is produced from Finnish-grown six-row barley and pure glacial spring water. At the Koskenkorva facility in western Finland, initial distillation of the fermented six-row barley takes place in seven columns with an average height of 25 meters using Altia's multi-pressure distilling system.",
+        "typeId": 2
+    },
+    {
+        "id": 14,
+        "name": "Silver Vodka",
+        "img": {
+            "src": "prod-14.jpg",
+            "alt": "Silver Vodka Image"
+        },
+        "price": {
+            "old": null,
+            "new": 4.99
+        },
+        "sale": false,
+        "description": "Silver is a blend of two very differently produced triple distilled tequilas - one made using a traditional tahona and fermented with agave fibres, the other made using a modern roller shredder.",
+        "typeId": 4
+    },
+    {
+        "id": 15,
+        "name": "Havana Club Especial",
+        "img": {
+            "src": "prod-15.jpg",
+            "alt": "Havana Club Especial Image"
+        },
+        "price": {
+            "old": null,
+            "new": 23.99
+        },
+        "sale": false,
+        "description": "Havana Club Especial is a premium golden rum characterized by its smooth and well-rounded taste profile. The liquid is perfectly balanced and combines the lightness of flavour associated to white rums with the fruity complexity that is typical of more aged rums.",
+        "typeId": 5
+    }
+]
