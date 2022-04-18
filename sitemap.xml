@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset>
 	<url>
-		<loc>https://lakilazic.github.io/lazarry.github.io/ - index</loc>
+		<loc>https://lazar-j.github.io/index.html</loc>
 		<lastmod>2022-04-17</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.9</priority>
 	</url>
     <url>
-		<loc>https://lakilazic.github.io/lazarry.github.io/< - about/loc>
+		<loc>https://lazar-j.github.io/about.html</loc>
 		<lastmod>2022-04-17</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.7</priority>
 	</url>
     <url>
-		<loc>https://lakilazic.github.io/lazarry.github.io/ - product</loc>
+		<loc>https://lazar-j.github.io/product.html</loc>
 		<lastmod>2022-04-17</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.8</priority>
 	</url>
     <url>
-		<loc>https://lakilazic.github.io/lazarry.github.io/ - contact</loc>
+		<loc>https://lazar-j.github.io/contact.html</loc>
 		<lastmod>2022-04-17</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.7</priority>
 	</url>
     <url>
-		<loc>https://lakilazic.github.io/lazarry.github.io/ - cart</loc>
+		<loc>https://lazar-j.github.io/cart.html</loc>
 		<lastmod>2022-04-17</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.8</priority>
 	</url>
     <url>
-		<loc>https://lakilazic.github.io/lazarry.github.io/ - checkout</loc>
+		<loc>https://lazar-j.github.io/checkout.html</loc>
 		<lastmod>2022-04-17</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.8</priority>
 	</url>
     <url>
-		<loc>https://lakilazic.github.io/lazarry.github.io/ - author</loc>
+		<loc>https://lazar-j.github.io/author.html</loc>
 		<lastmod>2022-04-17</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.7</priority>
